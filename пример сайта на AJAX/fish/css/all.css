@@ -1,0 +1,69 @@
+/* main styles */
+body {
+	font-size:12px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin:0px;
+	padding:0px;
+	line-height:20px;
+}
+.mainname {
+	padding-left:10px;
+}
+.bg {
+   	background:url(../img/bg.jpg) repeat-x #eef2d9;
+	padding-top:45px;
+    padding-bottom:40px;
+}
+.ttext {
+   color:#b27453;
+   font-size:16px;
+}
+.main {
+    width:990px;
+	text-align:left;
+}
+.mamatext {
+    padding:20px;
+	background:#ffffff;
+}
+
+.right_text {
+    line-height:25px;
+	padding:12px;
+}
+.top {
+   	background:url(../img/top.jpg) bottom repeat-x #458fc0;
+	height:183px
+}
+.top_green {
+   	background: #99c444;
+	height:3px;
+}
+.top_blue {
+   	background: #2d74a3;
+	height:34px;
+	line-height:34px;
+	color:#ffffff;
+}
+.top_white {
+   	background: #ffffff;
+	height:3px;
+}
+.top_link {
+    display:block;
+	float:left;
+	padding:1px;
+	padding-left:12px;
+	padding-right:12px;
+	background:#ffffff;
+	margin-right:10px;
+	color:#2d74a3;
+	text-decoration:none;
+	font-size:14px;
+	font-weight:bold;
+	margin-bottom:3px;
+	border:solid 1px #99C444;
+}
+.top_link:hover {
+    background:#e5f0ce;
+}

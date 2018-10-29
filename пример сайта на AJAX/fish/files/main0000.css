@@ -1,0 +1,79 @@
+/*
+	project: web application template
+	author: luka cvrk (www.solucija.com)
+*/
+
+body { margin:0 0; background: #e7f8e6 url(bg000000.jpg) repeat-x; 
+font: .74em "Trebuchet MS", Arial, Sans-Serif; color: #444; }
+.mainname { padding-left:10px;}
+.prod { color:#FF9}
+.prod:hover { color:#FFF; text-decoration:none;}
+	h1 { font-size: 3em; font-weight: normal; float: left; }
+	h1 a { text-decoration: none; }
+	h2 { font-size: 2em; color: #FFF2B3; font-weight: normal; margin: 0 0 .8em; }
+    #content { min-width: 990px; width:expression(document.body.clientWidth < 990? "990px": "auto" ); }
+	a { color: #003399; }
+	.col a { color: #000; font-size:16px}
+	a:hover { color: #000; text-decoration: none; }
+	img { border: 0; }
+.logo { position:absolute;
+left:10px;
+}	
+.dobro { text-align:left; padding:10px; padding-left:20px; font-size:20px; font-family:comic Sans MS; background-color:#001662; color:#fff}
+.dobroline { background-color:#5391de; height:12px;}
+.smallcom { font-size:20px;}
+.fonn {background:url(goltum58.jpg);}
+.mainhh { padding-top:20px; font-size:35px;}
+.bigmain { font-size:49px;}
+.riva { float:right; color:#fff; font-family:comic Sans MS;}
+.col p {height:62px; padding-left:74px; padding-bottom:12px;} 
+.price { float:right; text-align:right;}
+#im1 { background:url(fish.png) no-repeat; }
+#im2 { background:url(im2.png) no-repeat; }
+#im3 { background:url(im_press.gif) no-repeat; }
+#im4{ background:url(im_kop_hol.gif) no-repeat; }
+#im5{ background:url(im_gor.png) no-repeat; }
+#im6{ background:url(im_vyal.gif) no-repeat; }
+#im7{ background:url(im_kopusta.gif) no-repeat; }
+#im8 { background:url(im_cons.gif) no-repeat; }
+#im9 { background:url(im_kulinar.gif) no-repeat; }
+.wrap { width: 960px; margin: 0 auto; padding-top:20px; }
+ .red { font-weight:bold; font-size:16px;}
+#header { margin: 0 auto; }
+.ryb td { padding:5px 40px 5px 5px; border:1px solid #FFFFFF}
+	#menu  { float: right; border-top:solid 2px #fff; list-style: none; height:55px; background: url(bg_menu.jpg) repeat-x;}
+	#menu  td { background: url(zabor.jpg) no-repeat;}
+		#menu li { display: inline; }
+		#menu a { display: block; float: left; margin-left:20px; padding: 7px; 
+		text-decoration: none; font-size: 16px; color:#fff; font-weight:bold;}
+		#menu a:hover { color: #fff; border-bottom: 2px solid #ccc; }
+		#menu .active a { border-bottom: 2px solid #FFF2B3; color: #FFF2B3;}
+.logo { margin-top:20px;}
+#teaser { clear: both; height: 259px; }
+	.box { float:right; padding-top:12px; font-size:16px; color: #c6c300; }
+	
+#bar { padding: 15px 0 0 0; background: #3e7698 url(goltum58.jpg) repeat-x; }
+.workloadcell {
+padding: 0px;
+width: 100%;
+text-align: center;
+padding:0 5px 0 0;
+}
+
+div.workload {
+text-align: center;
+float: none;
+}
+	.step { cursor: pointer; color: #C6C300; padding: 4px 0 0 11px; margin: 0 35px 0 0; font-size: 1.4em; float: left; text-align: center;  height: 30px; }
+	.step a { color: #fff; margin: 0 10px 0 0; }
+
+.col { float: left; width: 276px; margin: 0 30px 16px 0; }
+.col2 { float: left; width:900px; margin: 0 30px 16px 0; font-size:15px; text-align:justify; padding-bottom:18px; }
+	.last { float: right; margin: 0; }
+	.info { border: 1px solid #e0e0e0; background: #f4f4f4; padding: 7px; }
+
+#footer { clear: both; color:#fff; 
+margin: 0 auto; padding: 15px; background:#001662; }	
+	#footer .right { float: right; margin: 0 55px 0 0; }
+	#footer a { color: #808080; font-weight: bold; }
+#picim1 { padding-left:10px;}
